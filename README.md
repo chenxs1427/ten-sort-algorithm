@@ -1,5 +1,5 @@
 # ten-sort-algorithm
-Python实现十大经典排序算法、动态图
+Python实现十大排序算法、动态图
 ## 比较各算法
 ![](/Image/各算法比较.png)
 ## 冒泡排序
